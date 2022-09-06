@@ -6,7 +6,7 @@ will be created to spark ideas on how a bike riding service could be suitable fo
 [link to dashboard](https://public.tableau.com/app/profile/caleb2981/viz/NYCCitiBIkeDatavisualized/CitiBikeStory?publish=yes)
 Here are seven figures taken from the dashboard above: 
 
-![""](https://public.tableau.com/app/profile/caleb2981/viz/NYCCitiBIkeDatavisualized/CitiBikeStory?publish=yes)
+!["Checkout_Times_for_Users"](https://github.com/Calebmkelly/bikesharing/blob/main/Images/Checkout_Times_for_Users.png)
 
 
 
