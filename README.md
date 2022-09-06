@@ -29,7 +29,14 @@ figure 2.2: Trips by Gender by Weekday
 
 !["Trips_by_Gender_(Weekday per hour)"](https://github.com/Calebmkelly/bikesharing/blob/main/Images/Trips_by_Gender_(Weekday%20per%20hour).png)
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
+in figure 2.2, The heatmap from figure 2.2 is filtered by gender. Similarly, Peak hours occur around 8:00AM and 5:00PM during the weekdays, and within 8:00AM and 5:00PM on the weekends for both genders. Both Genders seem to have Thursday as the most active day, with 5:00PM and 6:00PM having the most activity.
+
+figure 2.3: User Trips by Gender by Weekday
+
+!["Trips_by_Gender_(Weekday per hour)"](https://github.com/Calebmkelly/bikesharing/blob/main/Images/Trips_by_Gender_(Weekday%20per%20hour).png)
+
+in figure 2.2, The heatmap from figure 2.2 is filtered by gender. Similarly, Peak hours occur around 8:00AM and 5:00PM during the weekdays, and within 8:00AM and 5:00PM on the weekends for both genders. Both Genders seem to have Thursday as the most active day, with 5:00PM and 6:00PM having the most activity.
+
+
 ## Summary:
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
